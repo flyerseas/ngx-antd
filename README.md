@@ -1,5 +1,9 @@
 # Ngx-Antd
 
+An admin html template based ng ant design for angular
+
+## Development server
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
